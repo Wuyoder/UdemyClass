@@ -1,0 +1,23 @@
+### Problem Solving Approach
+
+- Understand the Problem
+  - ask questions
+  - do not assume
+  - explore examples
+  - explore edge cases
+  - explore visualizations
+  - explore cases with invalid inputs
+- Explore Concrete Examples
+  - start with simple examples
+  - progress to more complex examples
+    - string, number, empty space...
+    - uppercase, lowercase
+  - explore examples with empty inputs
+  - explore examples with invalid inputs
+- Break It Down
+  - write down steps you need to take
+- Solve/Simplify
+- Look Back and Refactor
+  - try to improve your code or solution
+  - try to improve the performance
+  - try to clean up the code
